@@ -34,7 +34,7 @@ const WhatsAppCTA = () => {
             Message on WhatsApp
           </motion.a>
           <p className="mt-8 text-sm text-green-100/70 font-medium tracking-wide">
-            We reply within minutes during store hours (6 AM – 10 PM)
+            We reply within minutes during store hours (7:00 AM – 9:00 PM)
           </p>
         </motion.div>
       </div>

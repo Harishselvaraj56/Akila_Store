@@ -35,7 +35,7 @@ const Hero = () => {
               transition={{ duration: 0.7, delay: 0.1, ease: [0.16, 1, 0.3, 1] }}
               className="text-lg text-gray-600 mb-10 leading-relaxed"
             >
-              Your trusted neighbourhood grocery store. We source the highest quality fresh produce, dairy, and daily essentials so your family always gets the best.
+              Conveniently located in Vallioor, serving the local community with fresh groceries and daily essentials.
             </motion.p>
             
             <motion.div 

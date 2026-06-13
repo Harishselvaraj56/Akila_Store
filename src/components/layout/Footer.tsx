@@ -33,8 +33,8 @@ const Footer = () => {
             <h4 className="text-white font-semibold mb-6">Store Hours</h4>
             <ul className="space-y-4 text-sm text-gray-400">
               <li className="flex justify-between">
-                <span>Monday - Sunday</span>
-                <span className="text-white">6:00 AM – 10:00 PM</span>
+                <span>Monday – Sunday</span>
+                <span className="text-white">7:00 AM – 9:00 PM</span>
               </li>
               <li className="mt-4 pt-4 border-t border-gray-800">
                 <span className="inline-block px-2 py-1 bg-green-900/50 text-green-400 text-xs font-semibold rounded">
@@ -63,7 +63,7 @@ const Footer = () => {
               <li>
                 <a href="https://maps.app.goo.gl/U7UfcYZcNmEsTuui8" target="_blank" rel="noopener noreferrer" className="flex items-start gap-3 hover:text-white transition-colors">
                   <MapPin size={18} className="shrink-0" />
-                  <span>Coimbatore, Tamil Nadu, India</span>
+                  <span>Vallioor, Tamil Nadu, India</span>
                 </a>
               </li>
             </ul>

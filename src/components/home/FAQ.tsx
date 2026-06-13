@@ -6,7 +6,7 @@ import SectionHeader from '../ui/SectionHeader';
 const faqs = [
   {
     q: 'What are your store timings?',
-    a: 'We are open every day from 6:00 AM to 10:00 PM — 365 days a year — so you always have access to fresh groceries when you need them.',
+    a: 'We are open every day from 7:00 AM to 9:00 PM to serve you with fresh groceries and daily essentials.',
   },
   {
     q: 'Do you restock fresh produce daily?',

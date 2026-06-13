@@ -71,7 +71,7 @@ const WhatsAppOrder = () => (
             </motion.a>
 
             <p className="mt-5 text-green-100/60 text-xs">
-              +91 9344384078 · Open daily 6 AM – 10 PM
+              +91 9344384078 · Open daily 7 AM – 9 PM
             </p>
           </div>
 

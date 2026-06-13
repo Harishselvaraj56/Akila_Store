@@ -15,10 +15,10 @@ const Contact = () => {
           className="text-center max-w-2xl mx-auto mb-16"
         >
           <h2 className="text-3xl md:text-4xl font-display font-bold text-gray-900 mb-4">
-            Visit Our Store
+            Visit Akila Store, Vallioor
           </h2>
           <p className="text-gray-600 text-lg">
-            We are conveniently located in the neighbourhood. Drop by or get in touch.
+            Conveniently located in Vallioor, serving the local community with fresh groceries and daily essentials.
           </p>
         </motion.div>
 
@@ -91,14 +91,15 @@ const Contact = () => {
             <h3 className="text-2xl font-display font-bold text-gray-900 mb-6">Akila Store</h3>
             <div className="text-gray-600 space-y-6 text-sm leading-relaxed mb-10">
               <div>
-                <strong className="block text-gray-900 mb-1">Address:</strong>
-                Coimbatore, Tamil Nadu<br />
+                <strong className="block text-gray-900 mb-1">Location:</strong>
+                Vallioor, Tamil Nadu<br />
                 India
               </div>
               <div>
-                <strong className="block text-gray-900 mb-1">Store Hours:</strong>
-                Monday - Sunday<br />
-                6:00 AM – 10:00 PM
+                <strong className="block text-gray-900 mb-1">Store Timings:</strong>
+                Monday – Sunday<br />
+                7:00 AM – 9:00 PM<br />
+                <span className="text-primary font-semibold mt-1 inline-block">Open Every Day for Your Convenience</span>
               </div>
             </div>
             <motion.a
@@ -113,7 +114,7 @@ const Contact = () => {
           </div>
           <div className="lg:col-span-2 h-[400px] lg:h-auto min-h-[400px] rounded-3xl overflow-hidden border border-gray-100 bg-gray-100 shadow-xl shadow-gray-200/40 relative">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15665.845942289658!2d76.99308115!3d11.0039281!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba859af2f971cb5%3A0x2fc1c81e183ed282!2sCoimbatore%2C%20Tamil%20Nadu!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3946.0689973216896!2d77.6105!3d8.3846!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b04c8c7f766e4cd%3A0xc6fb04212ed6d46a!2sVallioor%2C%20Tamil%20Nadu!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin"
               width="100%" height="100%"
               style={{ border: 0 }}
               allowFullScreen loading="lazy"
